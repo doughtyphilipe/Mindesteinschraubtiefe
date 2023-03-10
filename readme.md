@@ -2,9 +2,11 @@
 
 This is a Excel VBA toolset that calculates the minimum screw depth according to VDI 2230.
 
-## Preview
 
-![option 1](https://github.com/doughtyphilipe/Mindesteinschraubtiefe/blob/main/Mindesteinschraubtiefe.PNG)
+
+## Preview and usage
+
+![usage](https://github.com/doughtyphilipe/Mindesteinschraubtiefe/blob/main/mindesteinschraubtiefe.gif)
 
 
 ## Installation

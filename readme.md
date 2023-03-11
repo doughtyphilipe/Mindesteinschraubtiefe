@@ -6,7 +6,8 @@ This is a Excel VBA toolset that calculates the minimum screw depth according to
 
 ## Preview and usage
 
-![usage](https://github.com/doughtyphilipe/Mindesteinschraubtiefe/blob/main/mindesteinschraubtiefe.gif)
+![mindesteinschraubtiefe](https://user-images.githubusercontent.com/123315352/224512103-392eccf3-a3e3-41fb-bc78-750aa2c7dfbb.gif)
+
 
 
 ## Installation

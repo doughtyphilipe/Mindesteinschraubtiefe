@@ -6,16 +6,16 @@ Dieses Repository enthält ein Excel VBA Tool zur Berechnung der minimalen Minde
 
 
 ## Funktionen
-Berechnung der minimalen Mindesteinschraubtiefe einer Schraube nach VDI 2230
-Auswahl von Gewindebezeichnung, Festigkeitsklasse und Werkstoffsorte über drei Comboboxes
-Benutzerfreundliche Excel-Oberfläche mit Schaltflächen zum Berechnen und Zurücksetzen des Tools
+* Berechnung der minimalen Mindesteinschraubtiefe einer Schraube nach VDI 2230
+* Auswahl von Gewindebezeichnung, Festigkeitsklasse und Werkstoffsorte über drei Comboboxes
+* Benutzerfreundliche Excel-Oberfläche mit Schaltflächen zum Berechnen und Zurücksetzen des Tools
 
 ## Anwendung
-Öffnen Sie die Excel-Datei und klicken Sie auf die Schaltfläche "Mindesteinschraubtiefe berechnen".
-Wählen Sie die gewünschten Parameter (Gewindebezeichnung, Festigkeitsklasse und Werkstoffsorte) aus den Comboboxes aus.
-Klicken Sie auf die Schaltfläche "Mindesteinschraubtiefe berechnen", um die minimale Mindesteinschraubtiefe der Schraube zu berechnen.
-Die Ergebnisse werden automatisch in den entsprechenden Zellen angezeigt.
-Zum Löschen aller vorherigen Werte und zur Eingabe neuer Parameter klicken Sie auf die Schaltfläche "Reset".
+1. Öffnen Sie die Excel-Datei und klicken Sie auf die Schaltfläche "Mindesteinschraubtiefe berechnen".
+2. Wählen Sie die gewünschten Parameter (Gewindebezeichnung, Festigkeitsklasse und Werkstoffsorte) aus den Comboboxes aus.
+3. Klicken Sie auf die Schaltfläche "Mindesteinschraubtiefe berechnen", um die minimale Mindesteinschraubtiefe der Schraube zu berechnen.
+4. Die Ergebnisse werden automatisch in den entsprechenden Zellen angezeigt.
+5. Zum Löschen aller vorherigen Werte und zur Eingabe neuer Parameter klicken Sie auf die Schaltfläche "Reset".
 
 ## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz - siehe die LICENSE Datei für Details.

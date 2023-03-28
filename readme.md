@@ -1,6 +1,6 @@
 
 ## Mindesteinschraubtiefe - Excel VBA Tool
-for English version refer to [this](https://github.com/doughtyphilipe/Minimum-Embedment-Depth) repository.
+for the English version refer to [this](https://github.com/doughtyphilipe/Minimum-Embedment-Depth) repository.
 
 Dieses Repository enthält ein Excel VBA Tool zur Berechnung der minimalen Mindesteinschraubtiefe einer Schraube, basierend auf den Anforderungen der VDI 2230. Das Tool verwendet drei verschiedene Comboboxes zur Auswahl der Gewindebezeichnung, Festigkeitsklasse und Werkstoffsorte, um eine benutzerfreundliche Oberfläche für Ingenieure und Techniker zu bieten.
 
